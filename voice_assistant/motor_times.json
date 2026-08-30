@@ -1,0 +1,482 @@
+{
+    "00": {
+        "clockwise": 1000,
+        "counterclockwise": 2000
+    },
+    "01": {
+        "clockwise": 3500,
+        "counterclockwise": 4000
+    },
+    "02": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "03": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "04": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "05": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "06": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "07": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "08": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "09": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "10": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "11": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "12": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "13": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "14": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "15": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "16": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "17": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "18": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "19": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "20": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "21": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "22": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "23": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "24": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "25": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "26": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "27": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "28": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "29": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "30": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "31": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "32": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "33": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "34": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "35": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "36": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "37": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "38": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "39": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "40": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "41": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "42": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "43": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "44": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "45": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "46": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "47": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "48": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "49": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "50": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "51": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "52": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "53": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "54": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "55": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "56": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "57": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "58": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "59": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "60": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "61": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "62": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "63": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "64": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "65": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "66": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "67": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "68": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "69": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "70": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "71": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "72": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "73": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "74": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "75": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "76": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "77": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "78": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "79": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "80": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "81": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "82": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "83": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "84": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "85": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "86": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "87": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "88": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "89": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "90": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "91": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "92": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "93": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "94": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "95": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "96": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "97": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "98": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "99": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "100": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "101": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "102": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "103": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "104": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "105": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "106": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "107": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "108": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "109": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "110": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "111": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "112": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "113": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "114": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "115": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "116": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "117": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "118": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    },
+    "119": {
+        "clockwise": 1000,
+        "counterclockwise": 1000
+    }
+}
